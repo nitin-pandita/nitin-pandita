@@ -1,5 +1,5 @@
 - 😊 Hi, I’m Nitin Pandita
-- 🤓 I’m interested making Ai and Android Software
+- 🤓 I’m interested making Ai and Android Development
 - 💻🔎 I’m currently learning Python , C , Java and Machine Learning
 - 🖌🛠I’m looking for people to help in developing my programs
 - 📫 You can send me a message on my gmail id: kartikpandita121@gmail.com
