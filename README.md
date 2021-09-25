@@ -1,3 +1,5 @@
+- Hi there 🖐
+- 
 - 😊 Hi, I’m Nitin Pandita
 - 🤓 I’m interested making Ai and Android Development
 - 💻🔎 I’m currently learning Python , C , Java and Machine Learning
