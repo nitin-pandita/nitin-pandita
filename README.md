@@ -1,4 +1,4 @@
-- Hi there 🖐
+- 𝐇𝐢, 𝐈 𝐚𝐦 𝐍𝐢𝐭𝐢𝐧 𝐏𝐚𝐧𝐝𝐢𝐭𝐚 🖐
 - 
 - 😊 Hi, I’m Nitin Pandita
 - 🤓 I’m interested making Ai and Android Development
