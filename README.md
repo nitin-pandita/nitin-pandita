@@ -1,6 +1,7 @@
 - 𝐇𝐢, 𝐈 𝐚𝐦 𝐍𝐢𝐭𝐢𝐧 𝐏𝐚𝐧𝐝𝐢𝐭𝐚 🖐
 - 
-- 😊 Hi, I’m Nitin Pandita
+- 𝐓𝐫𝐲𝐢𝐧𝐠 𝐭𝐨 𝐂𝐡𝐚𝐧𝐠𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐛𝐲 𝐛𝐞𝐢𝐧𝐠 𝐦𝐲𝐬𝐞𝐥𝐟 ✔
+-  
 - 🤓 I’m interested making Ai and Android Development
 - 💻🔎 I’m currently learning Python , C , Java and Machine Learning
 - 🖌🛠I’m looking for people to help in developing my programs
