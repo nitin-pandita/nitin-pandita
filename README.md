@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Profile](https://github.com/nitin-pandita/Projects.git)**
+- 👨‍💻 All of my projects are available at **[My Projects](https://github.com/nitin-pandita/Projects.git)**
 
 - 📫 How to reach me **kartikpandita121@gmail.com**
 
