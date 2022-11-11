@@ -66,7 +66,7 @@ if __name__ == '__main__':
 
 <div align="center">
 <a href="https://www.linkedin.com/in/nitin-pandita-148070213/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-<a href="https://twitter.com/Ravirajsolanki_" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
+<a href="https://twitter.com/arj_nitin" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
 </a>
 
 
