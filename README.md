@@ -48,12 +48,7 @@ if __name__ == '__main__':
 
   <h4 align="center">Visitor's count :eyes:</h4>
   <p align="center"><img src="https://profile-counter.glitch.me/{nitin-pandita}/count.svg" alt="nitin-pandita :: Visitor's Count" /></p>
-  <h1> Total Contribution </h1>
-<div align="center"
 
-![github-user-contribution](https://user-images.githubusercontent.com/91310284/188307205-6ea25109-4838-48c3-87f6-29ee86a2100e.svg)
-</div>
-<hr>
 
 ### 🛠 &nbsp; Tech Stack
 
