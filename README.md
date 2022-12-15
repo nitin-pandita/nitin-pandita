@@ -56,7 +56,7 @@ if __name__ == '__main__':
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | | |  | |  |  |  |  | |
 ---
-
+<p style="text-align:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pandita&" alt="nitin-pandita" /></p>
 <h1 align="center">SOCIAL</h1>
 
 <div align="center">
