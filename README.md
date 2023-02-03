@@ -7,13 +7,48 @@
 </div>
 <br>
 
+
+### Connect with me:
+
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/NitinPandita_#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/NitinPandita_#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nitin-pandita-148070213/#gh-light-mode-only)
+[![website](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nitin-pandita-148070213/#gh-dark-mode-only)
+
+
+## Github Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=nitin-pandita&margin-w=15&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="InteliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-3-1175019.png?f=avif&w=256" style="padding-right:10px;" />
+<img align="left" alt="InteliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png?f=avif&w=256" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/github-159-721954.png?f=avif&w=256" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png?f=avif&w=256" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png?f=avif&w=256" style="padding-right:10px;" />
+
+<br />
+<br />
+
+---
+
+## My Achievements 🙌
+[![@nitin-pandita Holopin board](https://holopin.me/nitinpandita)](https://holopin.io/@nitinpandita)
+
+<details>
+  <summary>:zap: GitHub Statitics</summary>
+
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin-pandita&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitin-pandita&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</details>
 <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
+
 
 ```python
 class nitin-pandita():
@@ -50,27 +85,9 @@ if __name__ == '__main__':
   <p align="center"><img src="https://profile-counter.glitch.me/{nitin-pandita}/count.svg" alt="nitin-pandita :: Visitor's Count" /></p>
 
 
-### 🛠 &nbsp; Tech Stack
-
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> |  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" width="40"> | <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40">  |<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>  | |  | 
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | |  | |  |  |  |  | |
----
-<p style="text-align:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-pandita&" alt="nitin-pandita" /></p>
-<h1 align="center">SOCIAL</h1>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/nitin-pandita-148070213/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-<a href="https://twitter.com/arj_nitin" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
-</a>
-
-
-<a href="https://www.instagram.com/arj_nitin_/" target="blank">
-<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
-</a>
-
-</div>
+[twitter]: https://twitter.com/NitinPandita_
+[instagram]: https://www.instagram.com/arj_nitin_/
+[linkedin]: https://www.linkedin.com/in/nitin-pandita-148070213/
 
 
 
-<hr>
