@@ -8,6 +8,8 @@
 <br>
 
 
+[![wakatime](https://wakatime.com/badge/user/9b71033d-3f00-4e15-8f10-d968df07f01c/project/44569291-ac23-4ecb-b6ba-cd7a447283bf.svg)](https://wakatime.com/badge/user/9b71033d-3f00-4e15-8f10-d968df07f01c/project/44569291-ac23-4ecb-b6ba-cd7a447283bf)
+
 ### Connect with me:
 
 [![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/NitinPandita_#gh-light-mode-only)
