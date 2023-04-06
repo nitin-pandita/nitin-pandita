@@ -30,8 +30,15 @@
 <img align="left" alt="InteliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png?f=avif&w=256" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/github-159-721954.png?f=avif&w=256" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png?f=avif&w=256" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png?f=avif&w=256" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="56px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="56px" src="https://w7.pngwing.com/pngs/579/16/png-transparent-power-bi-business-intelligence-microsoft-office-365-data-visualization-microsoft-text-rectangle-logo.png" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="padding-right:10px;" />
+
+
 
 <br />
 <br />
