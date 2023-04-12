@@ -105,3 +105,12 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
   </tr>
 </table>
+
+
+ <h1 align="center">
+ 
+|   Github Stats    |              Top Languages             |
+|    -----------    |              -----------------------   |
+| ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin-pandita&theme=algolia&include_all_commits=true&show_icons=true&count_private=true&show_icons=true) | ![Nitin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pandita&langs_count=6&show_icons=true&title_color=FF7777&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+ </h1>
