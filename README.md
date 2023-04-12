@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coder GIF" height=250 width=100% src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" />
+  <img alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" />
 </p>
 <hr>
 <div align="center">
@@ -9,6 +9,9 @@
 </div>
 <br>
 
+
+  <h4 align="center">Visitor's count :eyes:</h4>
+  <p align="center"><img src="https://profile-counter.glitch.me/{nitin-pandita}/count.svg" alt="nitin-pandita :: Visitor's Count" /></p>
 
 [![wakatime](https://wakatime.com/badge/user/9b71033d-3f00-4e15-8f10-d968df07f01c/project/44569291-ac23-4ecb-b6ba-cd7a447283bf.svg)](https://wakatime.com/badge/user/9b71033d-3f00-4e15-8f10-d968df07f01c/project/44569291-ac23-4ecb-b6ba-cd7a447283bf)
 
@@ -26,20 +29,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="InteliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-3-1175019.png?f=avif&w=256" style="padding-right:10px;" />
-<img align="left" alt="InteliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png?f=avif&w=256" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/github-159-721954.png?f=avif&w=256" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png?f=avif&w=256" style="padding-right:10px;" />
 
-<img align="left" alt="Java" width="56px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />
 
-<img align="left" alt="Java" width="56px" src="https://w7.pngwing.com/pngs/579/16/png-transparent-power-bi-business-intelligence-microsoft-office-365-data-visualization-microsoft-text-rectangle-logo.png" style="padding-right:10px;" />
-
-<img align="left" alt="Java" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" style="padding-right:10px;" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,mysql,sqlite,python,git,r,atom,vscode,tensorflow" />
+  </a>
+</p>
 
 
 <br />
@@ -47,36 +43,18 @@
 
 ---
 
-## My Achievements 🙌
-[![@nitin-pandita Holopin board](https://holopin.me/nitinpandita)](https://holopin.io/@nitinpandita)
-
-<details>
-  <summary>:zap: GitHub Statitics</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitin-pandita&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-  
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nitin-pandita&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</details> -->
-<p>
+## Languages Stats 🙌
 
 
-```python
-class nitin-pandita():
-    
-  def __init__(self):
-    self.name = "Nitin Pandita";
-    self.username = "nitin-pandita";
-    self.location = "Jammu, India";
-    self.twitter = "@nitin-pandita";
+ <h1 align="center">
  
-  
-  def __str__(self):
-    return self.name
+|   Github Stats    |   Top Languages             |
+|    -----------    |   -----------------------   |
+| ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitin-pandita&theme=algolia&include_all_commits=true&show_icons=true&count_private=true&show_icons=true) | ![Nitin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-pandita&langs_count=6&show_icons=true&title_color=FF7777&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-if __name__ == '__main__':
-    me = nitin-pandita()
-```
+ </h1>
+
+ </h1>
 <!-- -------------------------------------------profile -->
 
 ---
@@ -92,8 +70,7 @@ if __name__ == '__main__':
 </div> -->
 
 
-  <h4 align="center">Visitor's count :eyes:</h4>
-  <p align="center"><img src="https://profile-counter.glitch.me/{nitin-pandita}/count.svg" alt="nitin-pandita :: Visitor's Count" /></p>
+
 
 
 [twitter]: https://twitter.com/NitinPandita_
