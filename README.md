@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" />
+  <img alt="Coder GIF" height=250 width=100% src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" />
 </p>
 <hr>
 <div align="center">
