@@ -39,7 +39,7 @@
 <img align="left" alt="Java" width="56px" src="https://w7.pngwing.com/pngs/579/16/png-transparent-power-bi-business-intelligence-microsoft-office-365-data-visualization-microsoft-text-rectangle-logo.png" style="padding-right:10px;" />
 
 <img align="left" alt="Java" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="padding-right:10px;" />
-
+<img align="left" alt="Java" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" style="padding-right:10px;" />
 
 
 <br />
