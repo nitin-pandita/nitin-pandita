@@ -5,7 +5,10 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/nitin-pandita)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+
+![](https://komarev.com/ghpvc/?username=nitin-pandita&style=flat-square&color=yellow)
+![GitHub User's stars](https://img.shields.io/github/stars/nitin-pandita?label=%E2%AD%90GitHub%20stars&style=flat-square&color=yellow)
 
 I am _Nitin Pandita_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering. I am an experienced developer skilled in Python, Java, FrontEnd Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops.
 
