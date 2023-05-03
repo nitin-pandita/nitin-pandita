@@ -98,14 +98,16 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
   </a>
       <br>HTML
     </td>
-        </td>
-        <td align="center" width="96">
+    
+  </td>
+  <td align="center" width="96">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
       <br>CSS
     </td>
-        <td align="center" width="96">
+    
+   <td align="center" width="96">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
