@@ -106,8 +106,20 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
   </a>
       <br>Stackoverflow
     </td>
-
+    <td align="center" width="96"> 
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript" />
+  </a>
+      <br>TypeScript
+    </td>
+        <td align="center" width="96"> 
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite" />
+  </a>
+      <br>Vite
+    </td>
   </tr>
+  
 </table>
 
 [![Nitin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitin-pandita&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
