@@ -29,7 +29,9 @@ I am _Nitin Pandita_. I have strong media and communication professional with a 
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
+## Holopin Collection
 
+[![An image of @nitinpandita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinpandita)](https://holopin.io/@nitinpandita)
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
